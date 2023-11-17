@@ -1,0 +1,36 @@
+{
+  "name": "hilites",
+  "version": "0.1.0",
+  "proxy": "https://vast-coast-04852.herokuapp.com/",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/icon": "^3.0.15",
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.6",
+    "@next/font": "^13.2.4",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "chatgpt": "^4.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.5",
+    "heroku": "^7.69.1",
+    "next": "^13.1.5",
+    "ora": "^6.1.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.6",
+    "typescript": "4.9.4",
+    "youtube-transcript": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.13"
+  }
+}
